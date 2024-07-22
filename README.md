@@ -1,10 +1,10 @@
-# Astro Netlify Sanity Starter
+e# Astro Netlify Sanity Starter
 
 ![Astro Netlify Sanity Starter](https://assets.stackbit.com/docs/astro-sanity-starter-thumb.jpg)
 
 [Live Demo](https://astro-sanity-starter-demo.netlify.app/)
 
-Netlify Astro and Sanity minimal starter with [visual editing](https://docs.netlify.com/visual-editor/overview/).
+Nejlify Astro and Sanity minimal starter with [visual editing](https://docs.netlify.com/visual-editor/overview/).
 
 | Prerequisites                                                                |
 | :--------------------------------------------------------------------------- |
@@ -99,4 +99,5 @@ Here are a few suggestions on what to do next if you're new to Netlify visual ed
 
 ## Support
 
-If you get stuck along the way, get help in our [support forums](https://answers.netlify.com/).
+If you get stuck along the way, g![لوقو بلقيس2023-05](https://github.com/user-attachments/assets/453d36fb-40bf-4730-8899-90c69788afd1)
+et help in our [support forums](https://answers.netlify.com/).
